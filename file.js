@@ -1,0 +1,2 @@
+# safegenerate
+generate
